@@ -1,6 +1,6 @@
 {
   "name": "@fxx2019/fx-constant",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": ""
   },
-  "homepage": ""
+  "homepage": "",
+  "dependencies": {
+    "@vdian/login": "^0.6.4"
+  }
 }
